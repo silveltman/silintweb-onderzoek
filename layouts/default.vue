@@ -2,21 +2,26 @@
   <div class="wrapper">
     <Nav />
     <Nuxt class="wrapper__main" />
-    <aside class="wrapper__aside" />
   </div>
 </template>
 
 <style lang="scss">
 .wrapper {
-  padding: 100px 0 100px 330px;
+  box-sizing: content-box;
+  position: relative;
+  padding: 100px 330px;
+  max-width: 680px;
   margin: 0 auto;
-  display: grid;
-  justify-content: center;
-  grid-template-columns: minmax(510px, 680px) 280px;
-  grid-gap: 0 50px;
+  // border-right: 2px solid $gray-light;
 
-  &__aside {
-    border-left: 2px solid $gray-light;
+  &::before {
+    content: '';
+    position: absolute;
+    display: block;
+    height: 100%;
+    width: 2px;
+    background: $gray-light;
+    right: 280px;
   }
 }
 
