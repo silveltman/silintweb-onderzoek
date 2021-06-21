@@ -23,6 +23,10 @@
     background: $gray-light;
     right: 280px;
   }
+
+  .nuxt-content {
+    position: relative;
+  }
 }
 
 </style>

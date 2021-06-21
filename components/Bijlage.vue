@@ -72,7 +72,7 @@ export default {
     text-align: left;
     width: 280px;
     position: absolute;
-    right: -280px - 50px;
+    right: -330px;
     padding: 5px 20px;
     font-weight: 300;
     font-style: italic;
