@@ -51,7 +51,7 @@ export default {
   position: relative;
   justify-content: center;
   align-items: center;
-  margin: 100px 0;
+  margin: 50px 0 100px;
 
   &::before,
   &::after {

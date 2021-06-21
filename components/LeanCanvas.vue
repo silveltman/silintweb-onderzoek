@@ -110,7 +110,7 @@ export default {
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 20px;
-  margin: 100px 0;
+  margin: 50px 0 100px;
 
   &__field {
     position: relative;
@@ -173,6 +173,10 @@ export default {
         content: 'pages';
       }
     }
+  }
+
+  &__bottom {
+    margin-top: 20px;
   }
 
   &__h {

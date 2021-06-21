@@ -34,7 +34,7 @@ export default {
   grid-gap: 50px 80px;
   justify-content: space-between;
   padding: 0 50px;
-  margin: 100px 0;
+  margin: 50px 0 100px;
   position: relative;
 
   &::before {

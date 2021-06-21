@@ -200,61 +200,56 @@ Dit tweede canvas is kleiner, maar belangrijker. Hierin staat alleen de belangri
 
 <ValuePropositionCanvas 
   :customer-jobs=" [
-    'Website maker zoeken', 
-    'Website maker kiezen',
+    'Website maker zoeken en kiezen', 
     'Cotnent opstellen voor op de wesbite', 
     'Feedback geven op website maker', 
     'Website bijhouden'
   ]"
   :pains=" [
     'Veel keuze aan website makers', 
-    'Weinig kennis van websites', 
-    'Onduidelijk wat de website maker doet en waarom', 
-    'Onduidelijk wat er nog allemaal moet gebeuren', 
-    'Moeilijk te bepalen wat belangijk is voor op de website',
-    'Vaak om hulp moeten vragen'
+    'Onduidelijk wat er allemaal moet gebeuren', 
+    'Moeilijk te bepalen wat belangijk is voor op de website'
   ]"
   :gains=" [
-    'Online zichtbaar', 
-    'Professionele online uitstraling', 
-    'Meer inzich in je eigen bedrijf', 
+    'Kwalitatieve, effectieve content die ook     elders te gebruiken is', 
     'Laten zien wie je bent, wat je doet en waar je het beste in bent', 
-    'Geen stress over technische aspecten', 
-    'Zelf kunnen bewerken wat nodig is', 
-    'Meer klanten en omzet',
-    'Kwalitatieve, effectieve content die ook elders te gebruiken is'
+    'Een website waarvan de kwaliteit gewaarborgd is', 
+    'Meer klanten en omzet'
   ]"
   :products-services=" [
     'Persoonlijk contact', 
-    'Hulp bij content opstellen', 
+    'Systeem voor het opstellen van content', 
     'Webdesign', 
     'Webdevelopment', 
     'CMS', 
-    'Hosting', 
-    'Technische ondersteuning'
+    'Technische ondersteuning',
+    'klantdashboard / -platform,
+    'regelmatige updates naar klanten',
+    'Documentaties met uitleg'
   ]"
   :pain-relievers=" [
     'Elkaar leren kennen, een goed gevoel bij krijgen', 
-    'Persoonlijke uitleg geven', 
-    'Systeem voor content opstellen', 
-    'Hulp is inbegrepen', 
-    'Aanpasbaar CMS'
+    'Hulp bij content opstellen', 
+    'Volledig Aanpasbaar CMS'
+    'Alleen op één centrale plek'
+    'Antwoorden op vragen zijn te vinden in de documentatie'
   ]"
   :gain-creators=" [
-    'Professionele, overzichtelijke, maatwerk website', 
-    'Systeem voor content opstellen', 
-    'Technische ondersteuning', 
-    'Aanpasbaar CMS', 
-    'Hosting'
+    'Een overzichtelijke, maatwerk website die laat zien wat belangrijk is', 
+    'Hulp bij content opstellen', 
+    'Technische ondersteuning door een professional', 
+    'Volledig aanpasbaar CMS',
+    'strategie bepalen'
   ]">
 </ValuePropositionCanvas>
 
 ## Meer waarde voor klanten
-De VPC’s tonen op welke dingen ik me moet richten om meer waarde te bieden aan mijn klanten. Ik verdeel dit onder in twee categorieën: Huidige waardes versterken en nieuwe waardes creëren. 
+De VPC’s tonen op welke dingen ik me moet richten om meer waarde te bieden aan mijn klanten. Ik verdeel dit onder in twee categorieën: Huidige waardes versterken en nieuwe waardes creëren.
 
 ### Huidige waardes behouden en versterken
 Toen ik met dit onderzoek begon, bood ik mijn klanten natuurlijk al waarde. Deze waardes in kaart hebben is belangrijk, zodat ik ze kan behouden of zelf versterken. 
-Uit het VPC 
+
+De product & services, pain relievers en gain creators die ik al bedrijf al heb, maar ik ga versterken zijn als volgt.
 
 ### Nieuwe waardes creëren
 Dit onderzoek heeft me ook dingen gebracht die ik nog niet wist en waar dus nog wat te halen valt. 

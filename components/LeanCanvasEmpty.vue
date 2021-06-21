@@ -43,7 +43,7 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 10px;
-  margin: 100px 0;
+  margin: 50px 0 100px;
 
   &__field {
     border-radius: 10px;
