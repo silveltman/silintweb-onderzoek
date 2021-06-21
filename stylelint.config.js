@@ -9,6 +9,7 @@ module.exports = {
   rules: {
     'order/properties-alphabetical-order': null,
     'color-hex-case': null,
-    'color-named': null
+    'color-named': null,
+    'max-nesting-depth': null
   }
 }

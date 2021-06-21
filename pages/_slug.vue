@@ -24,11 +24,11 @@ import Toc from '@/components/Toc.vue'
 
 export default {
   components: { Toc },
-  async asyncData ({ $content }) {
-    const doc = await $content('introductie').fetch()
+  async asyncData ({ $content, params }) {
+    const doc = await $content(params.slug || 'introductie').fetch()
     const [prev, next] = await $content()
       .sortBy('order')
-      .surround('introductie')
+      .surround(params.slug)
       .fetch()
 
     return {

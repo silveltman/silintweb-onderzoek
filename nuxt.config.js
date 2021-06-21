@@ -14,7 +14,8 @@ export default {
       { hid: 'description', name: 'description', content: '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/icon?family=Material+Icons' }
     ]
   },
 
@@ -34,7 +35,8 @@ export default {
     ['@nuxtjs/eslint-module', { fix: true }],
     // https://go.nuxtjs.dev/stylelint
     ['@nuxtjs/stylelint-module', { fix: true }],
-    '@nuxtjs/style-resources'
+    '@nuxtjs/style-resources',
+    '@nuxtjs/google-fonts'
   ],
 
   styleResources: {
@@ -44,10 +46,20 @@ export default {
     ]
   },
 
+  googleFonts: {
+    families: {
+      Poppins: {
+        wght: [400, 500, 600, 700],
+        ital: [300]
+      }
+    }
+  },
+
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
-    '@nuxtjs/axios'
+    '@nuxtjs/axios',
+    '@nuxt/content'
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios

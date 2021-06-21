@@ -1,8 +1,26 @@
 // Media-query breaipoint to use with breakpoints mixin
 // Mixin can be found in _mixins.scss
 $breakpoints: (
-  '1' : 576px,
-  '2'  : 768px,
-  '3'  : 992px,
-  '4'  : 1200px,
+  1 : 576px,
+  2 : 768px,
+  3 : 992px,
+  4 : 1200px,
 );
+
+$bg: #FEFCFC;
+$bg-dark: #0D0D0D;
+$bg-dark-2: #262626;
+$color: #1D1D1D;
+$color-light: #DDDDE3;
+$brand-color: #005AFF;
+$gray-dark: #9a9ea5;
+$gray-light: #f0eded;
+
+$blue: #0092BB;
+$purple: #7433AB;
+$orange: #F7921E;
+$green: #419645;
+$red: #C32747;
+
+
+$font: 'Poppins', sans-serif;

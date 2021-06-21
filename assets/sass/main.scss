@@ -1,12 +1,11 @@
 @import 'abstracts/variables';
 // @import 'abstracts/functions';
 @import 'abstracts/mixins';
-// @import 'abstracts/placeholders';
 
-// @import 'vendors/bootstrap';
-
-// @import 'base/sanitize';
+@import 'base/sanitize';
+@import 'base/base';
 @import 'base/typography';
+
 
 // @import 'layout/navigation';
 // @import 'layout/footer';
@@ -14,8 +13,8 @@
 // @import 'layout/hero';
 // @import 'layout/wrapper';
 
-// @import 'components/buttons';
-// @import 'components/dropdown';
+@import 'components/blockquotes';
+@import 'components/lists';
 
 // @import 'pages/home';
 // @import 'pages/contact';
