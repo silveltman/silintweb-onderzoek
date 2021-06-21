@@ -1,43 +1,10 @@
 <template>
   <div class="wrapper">
-    <Nav :current-section="currentSection" />
+    <Nav />
     <Nuxt class="wrapper__main" />
     <aside class="wrapper__aside" />
   </div>
 </template>
-
-<script>
-// export default {
-//   data () {
-//     return {
-//       currentSection: null
-//     }
-//   },
-//   watch: {
-//     $route () {
-//       this.startObserver()
-//       console.log('route changed')
-//     }
-//   },
-//   mounted () {
-//     this.startObserver()
-//   },
-//   methods: {
-//     startObserver () {
-//       const observer = new IntersectionObserver((entries) => {
-//         entries.forEach((entry) => {
-//           this.currentSection = entry.target.id
-//           console.log(this.currentSection)
-//         })
-//       })
-//       const targets = document.querySelectorAll('h2')
-//       targets.forEach((item) => {
-//         observer.observe(item)
-//       })
-//     }
-//   }
-// }
-</script>
 
 <style lang="scss">
 .wrapper {
