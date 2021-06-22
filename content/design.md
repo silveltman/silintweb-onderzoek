@@ -211,7 +211,7 @@ Dit tweede canvas is kleiner, maar belangrijker. Hierin staat alleen de belangri
     'Moeilijk te bepalen wat belangijk is voor op de website'
   ]"
   :gains=" [
-    'Kwalitatieve, effectieve content die ook     elders te gebruiken is', 
+    'Kwalitatieve, effectieve content die ook elders te gebruiken is', 
     'Laten zien wie je bent, wat je doet en waar je het beste in bent', 
     'Een website waarvan de kwaliteit gewaarborgd is', 
     'Meer klanten en omzet'
@@ -223,15 +223,15 @@ Dit tweede canvas is kleiner, maar belangrijker. Hierin staat alleen de belangri
     'Webdevelopment', 
     'CMS', 
     'Technische ondersteuning',
-    'klantdashboard / -platform,
+    'klantdashboard / -platform',
     'regelmatige updates naar klanten',
     'Documentaties met uitleg'
   ]"
   :pain-relievers=" [
     'Elkaar leren kennen, een goed gevoel bij krijgen', 
     'Hulp bij content opstellen', 
-    'Volledig Aanpasbaar CMS'
-    'Alleen op één centrale plek'
+    'Volledig Aanpasbaar CMS',
+    'Alleen op één centrale plek',
     'Antwoorden op vragen zijn te vinden in de documentatie'
   ]"
   :gain-creators=" [
@@ -244,12 +244,10 @@ Dit tweede canvas is kleiner, maar belangrijker. Hierin staat alleen de belangri
 </ValuePropositionCanvas>
 
 ## Meer waarde voor klanten
-De VPC’s tonen op welke dingen ik me moet richten om meer waarde te bieden aan mijn klanten. Ik verdeel dit onder in twee categorieën: Huidige waardes versterken en nieuwe waardes creëren.
+De VPC’s tonen op welke dingen ik me moet richten om meer waarde te bieden aan mijn klanten. Ik verdeel dit onder in twee categorieën: Huidige waardes behouden/versterken en nieuwe waardes creëren.
 
 ### Huidige waardes behouden en versterken
 Toen ik met dit onderzoek begon, bood ik mijn klanten natuurlijk al waarde. Deze waardes in kaart hebben is belangrijk, zodat ik ze kan behouden of zelf versterken. 
-
-De product & services, pain relievers en gain creators die ik al bedrijf al heb, maar ik ga versterken zijn als volgt.
 
 ### Nieuwe waardes creëren
 Dit onderzoek heeft me ook dingen gebracht die ik nog niet wist en waar dus nog wat te halen valt. 

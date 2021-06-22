@@ -14,7 +14,7 @@
   padding: 100px 330px;
   max-width: 680px;
   margin: 0 auto;
-  // border-right: 2px solid $gray-light;
+  position: relative;
 
   &::before {
     content: '';
