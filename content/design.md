@@ -12,7 +12,7 @@ Dit betekent niet dat de opdeling tussen Discover en Dream nutteloos is geweest.
 
 ## Lean canvas
 Met het samenvallen van de fases Discover en Dream, verwerk ik de data hiervan samen in een Lean Canvas. Of eigenlijk meerder canvassen.  
-Ook al zitten in de templates verschillen, de basis is gelijk: de periodes. Om die reden kijk ik per periode naar de data en vul ik per periode het Lean Canvas in. De periode ‘serivce’ is hierin niet onderverdeeld, het gaat dus om 3 canvassen.
+Ook al zitten in de formats verschillen, de basis is gelijk: de periodes. Om die reden kijk ik per periode naar de data en vul ik per periode het Lean Canvas in. De periode ‘serivce’ is hierin niet onderverdeeld, het gaat dus om 3 canvassen.
 In elk canvas zijn bepaalde delen hetzelfde, zoals de customer segments. De problems, solutions en unique value propositions zijn wel verschillend. 
 
 ### Pre-service
@@ -137,9 +137,9 @@ In elk canvas zijn bepaalde delen hetzelfde, zoals de customer segments. De prob
 </LeanCanvas>	
 
 ## Value Propositions Canvas
-Om dieper in te gaan op de value propositions gebruik ik het Value Proposition Canvas (VPC). Het laat zien welke value propositions ik in huis heb en welke ik kan creëren. Omdat value propositions nauw in verband staan met de waarde die je je klanten bied, geeft dit canvas accuraat de conclusies van mijn onderzoek weer. 
+Om dieper in te gaan op de value propositions gebruik ik het Value Proposition Canvas (VPC). Het laat zien welke value propositions ik in huis heb en welke ik kan creëren. Omdat value propositions nauw in verband staan met de waarde die je je klanten bied, geeft dit canvas conclusies van mijn onderzoek weer. 
 
-Ik heb twee versies gemaakt. De eerste is uitgebreid en richt zich op de huidige situatie. De tweede is compacter en richt zich op waar ik naartoe ga werken. Beide versies zijn gevormd vanuit de drie Lean Canvassen.
+Ik heb twee versies gemaakt. De eerste is uitgebreid en richt zich op de huidige situatie. De tweede is compacter en richt zich ook op waar ik naartoe ga werken. Beide versies zijn gevormd vanuit de drie Lean Canvassen.
 
 ### VPC V1 (uitgebreid)
 Zoals ik net al zei is dit canvas vrij uitgebreid. Verder zijn de eventuele toekomstige punten hier nog niet aan toegevoegd.
