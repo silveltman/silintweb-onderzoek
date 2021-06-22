@@ -244,10 +244,4 @@ Dit tweede canvas is kleiner, maar belangrijker. Hierin staat alleen de belangri
 </ValuePropositionCanvas>
 
 ## Meer waarde voor klanten
-De VPC’s tonen op welke dingen ik me moet richten om meer waarde te bieden aan mijn klanten. Ik verdeel dit onder in twee categorieën: Huidige waardes behouden/versterken en nieuwe waardes creëren.
-
-### Huidige waardes behouden en versterken
-Toen ik met dit onderzoek begon, bood ik mijn klanten natuurlijk al waarde. Deze waardes in kaart hebben is belangrijk, zodat ik ze kan behouden of zelf versterken. 
-
-### Nieuwe waardes creëren
-Dit onderzoek heeft me ook dingen gebracht die ik nog niet wist en waar dus nog wat te halen valt. 
+De VPC’s tonen op welke dingen ik me moet richten om meer waarde te bieden aan mijn klanten. Ik verdeel dit onder in twee categorieën: Huidige waardes behouden/versterken en nieuwe waardes creëren. In de volgende fase, Destiny, zie je hoe ik dit ga doen. 
