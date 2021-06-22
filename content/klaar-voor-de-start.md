@@ -16,7 +16,7 @@ Om een betere versie te worden van het bedrijf dat ik nu ben, heb ik de volgende
 
 <bijlage text="het belang van unieke waarde">
 
-Het ontwikkelen van unieke waarde, Unique Value Propositions, is een belangrijk onderdee van je strategie. Met goede value propositions kun je invloed uitoefenen op keuze van een klant om wel of niet iets bij jou af te nemen. Om deze reden worden ze dan ook vaak gebruikt in marketing, zoals de website.
+Het ontwikkelen van unieke waarde, Unique Value Propositions, is een belangrijk onderdeel van je strategie. Met goede value propositions kun je invloed uitoefenen op keuze van een klant om wel of niet iets bij jou te komen. Om deze reden worden ze dan ook vaak gebruikt in marketing, zoals de website.
 
 Met value propositions haal je klanten binnen, dus is het belangrijk deze te communiceren. Het is een tool waarmee je klanten binnenhaalt en tevreden stelt. Met goede value propositions creëer je niet alleen tevreden klanten, maar het is over het algemeen ook nog eens de beste manier van marketing.
 
@@ -25,7 +25,6 @@ Met value propositions haal je klanten binnen, dus is het belangrijk deze te com
 
 </bijlage>
 
-Secundairdoel: ‘’.
 Het secundaire doel is een vervolg op het primaire doel. Bij het behalen hiervan moet nog steeds aan het primaire doel worden voldaan. Het gaat dus om het creëren van terugkerende inkomsten, welke niet ten koste gaan van de gecreëerde waarde voor mijn (toekomstige) klanten.
 
 > [**72%** van de nieuwe producten en diensten voldoet niet aan de **verwachting** van de klant](https://www.youtube.com/watch?v=ReM1uqmVfP0 "Bron: Strategyzer").

@@ -13,11 +13,11 @@ Als 22 jarige jongen heb ik een leuk, druk leven. Ik kom uit Bolsward, maar woon
 Maar toch, aan werk en school heb ik de afgelopen jaren een groot deel van mijn tijd besteed. Mijn eigen bedrijf waarin ik websites maak, plus de studie Technische Bedrijfskunde aan de Hanzehogeschool. Dit semester heb ik mijn stage in m’n eigen bedrijf kunnen lopen, waardoor die twee grote tijdsbestedingen ineens samenvielen. Dit gaf me de kans om 100% op 1 ding te focussen: mijn bedrijf. 
 
 ## Gebruiksaanwijzing
-Ook al ziet mijn school de oplevering van een onderzoek niet vaak in een website, ik zie heel vaak websites met een soortgelijke functie. Een website heeft namelijk veel voordelen ten opzichte van een verslag in word of PDF. Meer hierover lees je zo, maar eerst even een korte uitleg. Het is niet ingewikkeld, maar zo zorg ik er voor dat iedereen de voordelen zo goed mogelijk kan benutten.
+Ook al ziet mijn school de oplevering van een onderzoek niet vaak in een website, ik zie heel vaak websites met een soortgelijke functie. Een website heeft namelijk veel voordelen ten opzichte van een verslag in Word of PDF. Meer hierover lees je zo, maar eerst even een korte uitleg. Het is niet ingewikkeld, maar zo zorg ik er voor dat iedereen de voordelen zo goed mogelijk kan benutten.
 
 ### Structuur
-Wat je te wachten staat kun je zien als een uitgebreide samenvatting van mijn onderzoek. Je loopt alles bij langs en hebt bij elk onderdeel de mogelijkheid dieper op de stof in te gaan. Dit doe je door op de knop aan re rechterkant de drukken. 
-Waar je in eerste instantie vooral het “wat?” en “hoe?” ziet, vind je achter de knop vaak meet over het “waarom?”. Heb je geen zin om dieper op de stof in te gaan? Prima. Vind het jet wel interessant? Dan vind je deze stof op de plek waar het hoort.
+Wat je te wachten staat kun je zien als een uitgebreide samenvatting van mijn onderzoek. Je loopt alles bij langs en hebt bij elk onderdeel de mogelijkheid dieper op de stof in te gaan. Dit doe je door op de knop aan de rechterkant de drukken. 
+Waar je in eerste instantie vooral het “wat?” en “hoe?” ziet, vind je achter de knop vaak meer over het “waarom?”. Heb je geen zin om dieper op de stof in te gaan? Prima. Vind het het wel interessant? Dan vind je deze stof op de plek waar het hoort.
 
 <Bijlage text="Zo ziet zo'n knop er uit!">
 
@@ -44,11 +44,11 @@ text="Hoe deze voordelen ontstaan?">
 Zoals ik al zei, de voordelen die ik noemde zijn feitelijk onderbouwd. Meer over deze onderbouwing lees je hieronder. 
 
 ### Interactieve functies
-Omdat ik in de gebruiksaanwijzing aan een paar voorbeelden geef ga ik hier niet te diep op in. Het komt er op neer: Met een website is alles mogelijk, met PDF niet. Websites bestaan uit codes, waarmee je alles kunt doen als je er verstand van hebt. Een aangezien het maken van websites mijn werk is, heb ik het geluk er veel verstand van te hebben :)
+Omdat ik in de gebruiksaanwijzing al een paar voorbeelden geef, ga ik hier niet te diep op in. Het komt er op neer: Met een website is alles mogelijk, met PDF niet. Websites bestaan uit codes, waarmee je alles kunt doen als je er verstand van hebt. En aangezien het maken van websites mijn werk is, heb ik het geluk er veel verstand van te hebben :)
 
 ### Gebruikservaring
 Soms ziet een PDF er heel goed uit, maar soms is het ook wazig of is het ineens een 
- gescande pagina van een boek. Kortom, een PDF kan van alles zijn. Dit is slecht voor de gebruikservaring en helpt mij daardoor niet met mijn doel: het overbrengen van informatie over mijn onderzoek. 
+gescande pagina van een boek. Kortom, een PDF kan van alles zijn. Dit is slecht voor de gebruikservaring en helpt mij daardoor niet met mijn doel: het overbrengen van informatie over mijn onderzoek. 
 
 Bovendien zorgt deze onzekerheid van PDF er voor dat mensen er bij voorbaat minder vertrouwen in hebben. De kans is immers groot dat ze er al eens een slechte ervaring mee hebben gehad. Als ik mezelf even als voorbeeld gebruik: in de Google zoekresultaten open ik nooit een PDF als deze voorbij komt. 
 
@@ -78,7 +78,7 @@ Met een website is dat niet zo. Ik deel een link en deze blijft hetzelfde. Als i
 -	Ik kan de inhoud up-to-date houden
 
 ## De inhoud van de website
-Door de jaren heen en de opkomst van technologie de concentratie van de mens heel erg gedaald. Alles gaat zo snel tegenwoordig. Je het lezen van een onderzoek als dit daarom vooral makkelijk en leuk maken. Hierboven toonde ik hoe een website je hierbij helpt, maar ook de inhoud op deze website is belangrijk. 
+Door de jaren heen en de opkomst van technologie is de concentratie van de mens heel erg gedaald. Alles gaat zo snel tegenwoordig. Je moet het lezen van een onderzoek als dit daarom vooral makkelijk en leuk maken. Hierboven toonde ik hoe een website je hierbij helpt, maar ook de inhoud op deze website is belangrijk. 
 
 > [Sinds het **internet** is concentratie verminderd van **12 naar 5** minuten](https://www.collegian.psu.edu/the_savvy_student/excessive-internet-usage-adversely-affects-concentration-in-students/article_3a2bdbae-b0a0-11ea-a9f5-e38a7c9b56f6.html#:~:text=Some%20studies%20have%20shown%20that,for%2010%20minutes%20and%20longer. "Bron: Collegian.psu.edu")
 
