@@ -13,10 +13,10 @@ Waar ik me tijdens de Discover fase richtte op klanten en klanten hun klanten, h
 
 Als potentiële klanten heb ik gekozen voor soortgelijke bedrijven als mijn klanten, maar dan met een website die niet door mij gemaakt is.
 
-Voor de tweede doelgroep heb ik gekozen voor bedrijven die verder zijn dan mij en dus al dingen hebben meegemaakt waar ik nu middenin zit. Of zelfs dingen die ik nog tegen ga komen. Een harde eis was dat dit bedrijven moesten zijn die net als ik de focus leggen op kwaliteit, niet kwantiteit. Deze doelgruip sluit aan bij de anderen, omdat deze bedrijven vaak al met bedrijven zoals mijn andere doelgroepen hebben gewerkt. 
+Voor de tweede doelgroep heb ik gekozen voor bedrijven die verder zijn dan mij en dus al dingen hebben meegemaakt waar ik nu middenin zit. Of zelfs dingen die ik nog tegen ga komen. Een harde eis was dat dit bedrijven moesten zijn die net als ik de focus leggen op kwaliteit, niet kwantiteit. Deze doelgroep sluit aan bij de anderen, omdat deze bedrijven vaak al met bedrijven zoals mijn andere doelgroepen hebben gewerkt. 
 
 ## Potentiële klanten
-Omdat deze potentiële klanten soortgelijke bedrijven zijn als mijn klanten, gebruik ik dezelfde manier van onderzoek: semi-gestructureerde interviews. De resultaten zijn daardoor goed naast elkaar te leggen. De vragen die ik gebruik zijn deels aangepast waar nodig, maar komen grotendeels overeen
+Omdat deze potentiële klanten soortgelijke bedrijven zijn als mijn klanten, gebruik ik dezelfde manier van onderzoek: semigestructureerde interviews. De resultaten zijn daardoor goed naast elkaar te leggen. De vragen die ik gebruik zijn aangepast waar nodig, maar komen grotendeels overeen.
 
 #### Pre-service:
 - Waarom wilde je een website?
@@ -49,12 +49,12 @@ Net als mijn interviews met klanten, verwerk ik deze data in een format. De basi
   ]">
 </Format>
 
-Je ziet dat dit template een stuk minder categorieën heeft. Dit is niet erg en er zit een logische reden achter. Eerder interviewde ik klanten waar ik mee heb gewerkt en veel kennis over had. Uit de interviews kwam hierdoor zo veel informatie, dat opdelen in categorieën wel nodig was om het overzicht te bewaren. Hier is dat niet nodig, dus is het alleen maar extra werk om dat wel te doen.
+Je ziet dat dit template een stuk minder categorieën heeft. Dit is niet erg en er zit een logische reden achter. Eerder interviewde ik klanten waar ik mee heb gewerkt en veel kennis over heb. Uit de interviews kwam hierdoor zo veel informatie, dat opdelen in categorieën wel nodig was om het overzicht te bewaren. Hier is dat niet nodig, dus is het alleen maar extra werk om dat wel te doen.
 
 ## Bedrijven
 Hier gaat het niet om bedrijven die ik tevreden moet stelen, maar om bedrijven die net als ik hun klanten tevreden moeten stellen. Omdat er in onze industrie genoeg werk is, zijn bedrijven bijna altijd bereid elkaar te helpen. Even om de tafel zitten met een bakje koffie is vaak voor beide partijen iets wat ze graag doen. Hier haal ik mijn voordeel uit. 
 
-Ook met deze groep neem ik interviews af, maar dan wel een beetje anders. Ze zijn wederom semi-gestructureerd, maar neigen hier net wat meer naar de ongestructureerde kant. De vragen zijn ook anders en richten zich meer op het ontdekken van leermomenten binnen deze bedrijven.
+Ook met deze groep neem ik interviews af, maar dan wel een beetje anders. Ze zijn wederom semigestructureerd, maar neigen hier net wat meer naar de ongestructureerde kant. De vragen zijn ook anders en richten zich meer op het ontdekken van leermomenten binnen deze bedrijven.
 
 #### Kennismaking
 -	Hoe ben je begonnen?
