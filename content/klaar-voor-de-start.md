@@ -33,7 +33,7 @@ Het secundaire doel is een vervolg op het primaire doel. Bij het behalen hiervan
 ### Vraagstelling
 Bij een onderzoek hoort een onderzoeksvraag, welke in dit geval volgt uit de doelen. De hoofdvraag van dit onderzoek is dan ook: “Hoe creëer ik unieke waarde voor mijn (toekomstige) klanten?”
 
-## Unique Value Propositions
+<!-- ## Unique Value Propositions
 uitleggen waarom ik dit meet in value propositions. Uitleggen waarom value propositions waarde zijn
 
-> Het gaat allemaal om **kwaliteit!**
+> Het gaat allemaal om **kwaliteit!** -->

@@ -84,12 +84,12 @@ Door de jaren heen en de opkomst van technologie de concentratie van de mens hee
 
 Er zijn zo veel bedrijven in de website-wereld, dat resulteert in razend snelle innovatie. Het overbrengen van informatie is hier eentje van. Hoe vertel je mensen op een makkelijke en leuke manier wat je ze wilt vertellen? Met alle informatie die hierover beschikbaar is heb ik de volgende richtlijnen voor mezelf opgesteld:
 
-<bijlage 
+<!-- <bijlage 
 text="Waarom deze richtlijnen?">
 
 Lorem
 
-</bijlage>
+</bijlage> -->
 
 -	Korte, vlot leesbare zinnen
 -	Informeel taalgebruik, alsof je een gesprek voert

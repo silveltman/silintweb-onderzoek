@@ -56,8 +56,6 @@ De vragen die ik heb gebruikt vallen ieder binnen een bepaalde periode:
 
 Een semi-gestructureerd interview kan op het eerste gezicht misschien de makkelijke keuze lijken, maar dat was zeker niet het geval. Ook al hoefde ik minder vragen te bedenken, er waren nog genoeg andere dingen die ik nog moest voorbereiden. Ook na de interviews maakte mijn manier het mezelf lastig. Het vergelijken van de data was een stuk lastiger, omdat de interviews erg varieerde. Maar goed, ik ga een uitdaging niet uit de weg en ben achteraf ook erg blij dat ik het op deze manier heb gedaan. Ik denk namelijk dat dit heeft geleid tot de meest waardevolle data. 
 
-
-
 ### Een normaal gesprek
 Allereerst was het belangrijk dat het interview de vorm had van een normaal gesprek. Lekker bakje koffie met een muziekje op de achtergrond. Ik vroeg dan ook vaker 'wil je met me in gesprek?' dan 'mag ik je interviewen?'. 
 
