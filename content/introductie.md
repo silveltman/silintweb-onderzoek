@@ -13,11 +13,11 @@ Als 22 jarige jongen heb ik een leuk, druk leven. Ik kom uit Bolsward, maar woon
 Maar toch, aan werk en school heb ik de afgelopen jaren een groot deel van mijn tijd besteed. Mijn eigen bedrijf waarin ik websites maak, plus de studie Technische Bedrijfskunde aan de Hanzehogeschool. Dit semester heb ik mijn stage in m’n eigen bedrijf kunnen lopen, waardoor die twee grote tijdsbestedingen ineens samenvielen. Dit gaf me de kans om 100% op 1 ding te focussen: mijn bedrijf. 
 
 ## Gebruiksaanwijzing
-Ook al ziet mijn school de oplevering van een onderzoek niet vaak in een website, ik zie heel vaak websites met een soortgelijke functie. Een website heeft namelijk veel voordelen ten opzichte van een verslag in Word of PDF. Meer hierover lees je zo, maar eerst even een korte uitleg. Het is niet ingewikkeld, maar zo zorg ik er voor dat iedereen de voordelen zo goed mogelijk kan benutten.
+Ook al ziet mijn school de oplevering van een onderzoek niet vaak in een website, ik zie heel vaak websites met een soortgelijke functie. Een website heeft namelijk veel voordelen ten opzichte van een verslag in Word of PDF. Meer hierover lees je zo, maar eerst even een korte uitleg. Het is niet ingewikkeld, maar zo zorg ik ervoor dat iedereen de voordelen zo goed mogelijk kan benutten.
 
 ### Structuur
 Wat je te wachten staat kun je zien als een uitgebreide samenvatting van mijn onderzoek. Je loopt alles bij langs en hebt bij elk onderdeel de mogelijkheid dieper op de stof in te gaan. Dit doe je door op de knop aan de rechterkant de drukken. 
-Waar je in eerste instantie vooral het “wat?” en “hoe?” ziet, vind je achter de knop vaak meer over het “waarom?”. Heb je geen zin om dieper op de stof in te gaan? Prima. Vind het het wel interessant? Dan vind je deze stof op de plek waar het hoort.
+Waar je in eerste instantie vooral het “wat?” en “hoe?” ziet, vind je achter de knop vaak meer over het “waarom?”. Heb je geen zin om dieper op de stof in te gaan? Prima. Vind je het wel interessant? Dan vind je deze stof op de plek waar het hoort.
 
 <Bijlage text="Zo ziet zo'n knop er uit!">
 
@@ -55,13 +55,13 @@ Bovendien zorgt deze onzekerheid van PDF er voor dat mensen er bij voorbaat mind
 ### Informatie elders gebruiken
 Dit voorbeeld komt eigenlijk voort uit de kwaliteit, welke bij PDF niet altijd goed is. Hierdoor kun je soms geen teksten kopiëren of teksten zoeken via de zoekfunctie in de browser. 
 
-Als groot voorstander van open-sourcing wil ik mensen in staat stellen de informatie uit dit onderzoek zelf te gebruiken. Het aanbieding van deze informatie in de vorm van een website maakt dit voor iedereen net wat makkelijker. 
+Als groot voorstander van open-sourcing wil ik mensen in staat stellen de informatie uit dit onderzoek zelf te gebruiken. Het aanbieden van deze informatie in de vorm van een website maakt dit voor iedereen net wat makkelijker. 
 
 ### Op internet gevonden worden
-Ook al heeft dit nu geen prioriteit, het is altijd mooi meegenomen. Wanneer mensen zoeken naar iets waar ik op deze website antwoord op geef, dan is het mooi dat ik ze hierbij help. En wie weet, misschien beland deze persoon wel op mijn [bedrijfs-website](https://silintweb.nl) en komt er een mooie opdracht uit.
+Ook al heeft dit nu geen prioriteit, het is altijd mooi meegenomen. Wanneer mensen zoeken naar iets waar ik op deze website antwoord op geef, dan is het mooi dat ik ze hierbij help. En wie weet, misschien belandt deze persoon wel op mijn [bedrijfs-website](https://silintweb.nl) en komt er een mooie opdracht uit.
 
 ### Up-to-date houden
-Een PDF bestand wordt meestal geëxporteerd vanuit een ander programma, bijvoorbeeld Word. Wanneer je hierin iets aanpast moet het daardoor opnieuw worden geëxporteerd. Omdat ik dit onderzoek online deel, zou dat betekenen dat elke keer wanneer ik een aanpassing maak, ik het opnieuw moet delen. Iemand die bijvoorbeeld een oud bericht vind met een PDF bestand als bijlage, krijgt nog steeds de oude versie te zien.
+Een PDF bestand wordt meestal geëxporteerd vanuit een ander programma, bijvoorbeeld Word. Wanneer je hierin iets aanpast, moet het daardoor opnieuw worden geëxporteerd. Omdat ik dit onderzoek online deel, zou dat betekenen dat elke keer wanneer ik een aanpassing maak, ik het opnieuw moet delen. Iemand die bijvoorbeeld een oud bericht vindt met een PDF bestand als bijlage, krijgt nog steeds de oude versie te zien.
 
 Met een website is dat niet zo. Ik deel een link en deze blijft hetzelfde. Als ik aanpassingen maak, wordt dit live op de website toegepast. Dezelfde link blijft dus te gebruiken en toch krijgen mensen de nieuwe informatie te zien. Dit stimuleert mij en geeft mij de mogelijkheid om dit onderzoek up-to-date te houden.
 
@@ -84,12 +84,6 @@ Door de jaren heen en de opkomst van technologie is de concentratie van de mens 
 
 Er zijn zo veel bedrijven in de website-wereld, dat resulteert in razend snelle innovatie. Het overbrengen van informatie is hier eentje van. Hoe vertel je mensen op een makkelijke en leuke manier wat je ze wilt vertellen? Met alle informatie die hierover beschikbaar is heb ik de volgende richtlijnen voor mezelf opgesteld:
 
-<!-- <bijlage 
-text="Waarom deze richtlijnen?">
-
-Lorem
-
-</bijlage> -->
 
 -	Korte, vlot leesbare zinnen
 -	Informeel taalgebruik, alsof je een gesprek voert
