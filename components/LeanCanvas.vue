@@ -5,21 +5,21 @@
         <h4 class="lean-canvas__h">
           Customer segments
         </h4>
-        <ul class="lean-canvas__ul">
+        <ol class="lean-canvas__ol">
           <li v-for="item in customerSegments" :key="item" class="lean-canvas__li">
             {{ item }}
           </li>
-        </ul>
+        </ol>
       </div>
       <div v-if="earlyAdopters" class="lean-canvas__bottom">
         <h5 class="lean-canvas__h">
           Early adopters:
         </h5>
-        <ul class="lean-canvas__ul">
+        <ol class="lean-canvas__ol">
           <li v-for="item in earlyAdopters" :key="item" class="lean-canvas__li">
             {{ item }}
           </li>
-        </ul>
+        </ol>
       </div>
     </div>
     <div class="lean-canvas__field lean-canvas__field--problem">
@@ -27,21 +27,21 @@
         <h4 class="lean-canvas__h">
           Problem
         </h4>
-        <ul class="lean-canvas__ul">
+        <ol class="lean-canvas__ol">
           <li v-for="item in problem" :key="item" class="lean-canvas__li">
             {{ item }}
           </li>
-        </ul>
+        </ol>
       </div>
       <div v-if="existingAlternatives" class="lean-canvas__bottom">
         <h5 class="lean-canvas__h">
           Existing alternatives:
         </h5>
-        <ul class="lean-canvas__ul">
+        <ol class="lean-canvas__ol">
           <li v-for="item in existingAlternatives" :key="item" class="lean-canvas__li">
             {{ item }}
           </li>
-        </ul>
+        </ol>
       </div>
     </div>
     <div class="lean-canvas__field lean-canvas__field--solution">
@@ -49,21 +49,21 @@
         <h4 class="lean-canvas__h">
           Solution
         </h4>
-        <ul class="lean-canvas__ul">
+        <ol class="lean-canvas__ol">
           <li v-for="item in solution" :key="item" class="lean-canvas__li">
             {{ item }}
           </li>
-        </ul>
+        </ol>
       </div>
       <div v-if="futureIdeas" class="lean-canvas__bottom">
         <h5 class="lean-canvas__h">
           Future:
         </h5>
-        <ul class="lean-canvas__ul">
+        <ol class="lean-canvas__ol">
           <li v-for="item in futureIdeas" :key="item" class="lean-canvas__li">
             {{ item }}
           </li>
-        </ul>
+        </ol>
       </div>
     </div>
     <div class="lean-canvas__field lean-canvas__field--uvp">
@@ -71,21 +71,21 @@
         <h4 class="lean-canvas__h">
           Unique value proposition
         </h4>
-        <ul class="lean-canvas__ul">
+        <ol class="lean-canvas__ol">
           <li v-for="item in uvp" :key="item" class="lean-canvas__li">
             {{ item }}
           </li>
-        </ul>
+        </ol>
       </div>
       <div v-if="highLevelConcept" class="lean-canvas__bottom">
         <h5 class="lean-canvas__h">
           High-level concept:
         </h5>
-        <ul class="lean-canvas__ul">
+        <ol class="lean-canvas__ol">
           <li v-for="item in highLevelConcept" :key="item" class="lean-canvas__li">
             {{ item }}
           </li>
-        </ul>
+        </ol>
       </div>
     </div>
   </div>
@@ -183,7 +183,7 @@ export default {
     margin: 0;
   }
 
-  &__ul {
+  &__ol {
     margin: 0;
   }
 

@@ -15,19 +15,21 @@ Met het samenvallen van de fases Discover en Dream, verwerk ik de data hiervan s
 Ook al zitten in de formats verschillen, de basis is gelijk: de periodes. Om die reden kijk ik per periode naar de data en vul ik per periode het Lean Canvas in. De periode ‘serivce’ is hierin niet onderverdeeld, het gaat dus om 3 canvassen.
 In elk canvas zijn bepaalde delen hetzelfde, zoals de customer segments. De problems, solutions en unique value propositions zijn wel verschillend. 
 
-<Bijlage text="Waarom deze dingen in het canvas staan?">
+De onderdelen in de canvassen staan op volgorde van meest naar minst belangrijk. Via de knop aan de rechterkant lees je meer over hoe deze volgorde is bepaald. In de canvassen zie je de resultaten van de uitleg die daar wordt gegeven. 
+
+<Bijlage text="Waarom deze dingen hier in het canvas staan?">
 
 Eerder legde ik uit dat ik de data uit de interviews in een zelf opgesteld format heb verwerkt. Doordat alles in een soortgelijk format staat is de data goed te vergelijken. Maar hoe trek ik conclusies uit deze data? Dat is wat ik in deze fase doe.
 
 ### Oveereenkomsten zoeken
 In de formats staan alle dingen uit de interviews die relevant zijn voor het onderzoek. Deze staan geordend van meest naar minst belangrijk. Ze geven dus per interview weer wat belangrijk was volgens de geïnterviewde. Echter, dat hoeft niet te betekenen dat dat voor iederen belangrijk is.
 
-Om hier achter te komen was het zoeken naar overeenkomsten belangrijk. De interviews waren immers semigestructureerd, alles waar de geinterviewde zélf over begon was dus blijkbaar belangrijk volgens hem/haar. 
+Om hier achter te komen was het zoeken naar overeenkomsten belangrijk. De interviews waren immers semigestructureerd, alles waar de geïnterviewde zélf over begon was dus blijkbaar belangrijk volgens hem/haar. 
 
 #### Scores
-Omdat de data al op volgorde stond van meest naar minst belangrijk, kon ik gemakkelijk scores toedienen. De belangrijkste kreeg een score van 1, de op één na belangrijkste een score van 2, enzovoort. Deze scores zijn van laag naar hoog, omdat zo alle belangrijkste onderdelen een evenhoge scrore hebben, onafhankelijk van hoeveel onderdelen er in het rijtje staan. Met deze scores heb ik een nieuw overzicht gemaakt. Hierin stonden per onderdeel de volgende 3 dingen:
+Omdat de data al op volgorde stond van meest naar minst belangrijk, kon ik gemakkelijk scores toedienen. De belangrijkste kreeg een score van 1, de op één na belangrijkste een score van 2, enzovoort. Deze scores zijn van laag naar hoog, omdat zo alle belangrijkste onderdelen een even hoge score hebben, onafhankelijk van hoeveel onderdelen er in het rijtje staan. Met deze scores heb ik een nieuw overzicht gemaakt. Hierin stonden per onderdeel de volgende 3 dingen:
 
-- Aantal (in hoevel interviews het aan bod kwam)
+- Aantal (in hoeveel interviews het aan bod kwam)
 - Totale score (alles scores van het onderdeel opgeteld)
 - Gemiddelde score (totale score / aantal)
 
@@ -39,7 +41,7 @@ Ook al geeft de gemiddelde score goed weer hoe belangrijk een onderdeel was in e
 - Belangrijkheid = totale score / aantal / aantal
 
 #### Corrigeren
-Dit is natuurlijk een heel gestructureerde manier van vergelijken. Het is heel handig als startpunt, maar ik kan er niet zomaar vanuit kan gaan dat dit 100% correct is. Daarom heb ik de data gecorriceerd. Dit zijn minimale correcties, maar maken het geheel toch net wat meer kloppend. 
+Dit is natuurlijk een heel gestructureerde manier van vergelijken. Het is heel handig als startpunt, maar ik kan er niet zomaar vanuit kan gaan dat dit 100% correct is. Daarom heb ik de data gecorrigeerd. Dit zijn minimale correcties, maar maken het geheel toch net wat meer kloppend. 
 
 ### Van overeenkomsten naar canvassen
 Met de onderdelen uit dit nieuwe overzicht ben ik vervolgens de canvassen in gaan vullen. Hierin staat het wederom van meest naar minst belangrijk. Dit was een kwestie van puzzelen. Op een whiteboard en papier dingen bij het ene en het andere plaatsen en zo uiteindelijk tot een kloppend geheel komen. Gedurende dit hele proces hield ik het nieuwe overzicht met de gevonden data bij de hand. 
@@ -172,6 +174,8 @@ Om dieper in te gaan op de value propositions, gebruik ik het Value Proposition 
 
 Ik heb twee versies gemaakt. De eerste is uitgebreid en richt zich op de huidige situatie. De tweede is compacter, maar richt zich ook op waar ik naartoe ga werken. Beide versies zijn gevormd vanuit de drie Lean Canvassen.
 
+Ook hier staan de onderdelen weer op volgorde van meest naar minst belangrijk. Dit zijn wederom de resultaten van de uitgevoerde berekeningen.
+
 ### VPC V1 (uitgebreid)
 Zoals ik net al zei is dit canvas vrij uitgebreid. Verder zijn de eventuele toekomstige punten hier nog niet aan toegevoegd.
 
@@ -276,3 +280,6 @@ Dit tweede canvas is kleiner, maar belangrijker. Hierin staat alleen de belangri
 
 ## Meer waarde voor klanten
 De VPC’s tonen op welke dingen ik me moet richten om meer waarde te bieden aan mijn klanten. Ik verdeel dit onder in twee categorieën: Huidige waardes behouden/versterken en nieuwe waardes creëren. In de volgende fase, Destiny, zie je hoe ik dit ga doen. 
+
+## Tot slot
+In de Design fase hebben we een ontwerp gemaakt voor de nieuwe situatie. Dit hebben we gedaan met de data uit de Discover en Dream fase. Hiermee hebben we voor elk service-periode een Lean Canvas opgesteld. Vervolgens zijn we dieper op het onderdeel 'Value Proposition' ingegaan door een Value Proposition Canvas op te stellen. Van dit canvas hebben we vervolgens een tweede versie gemaakt, waarin alleen de meest belangrijke dingen opgenomen zijn. Hiermee tonen we hoe we maximale waarde kunnen creëren voor klanten. Op de volgende pagina's kijken we naar hoe we dit daadwerkelijk kunnen bereiken. 

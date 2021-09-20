@@ -93,3 +93,6 @@ Ook hier gebruik ik weer een format, welk er als volgt uit ziet:
 </Format>
 
 Weer weinig categorieën. Het proces is als enige onderverdeeld, wat ook een heel belangrijk onderwerp was. Hierin leer ik veel over hoe ze met klanten werken en wat hiervan waarde creëert. 
+
+## Tot slot
+We hebben gekeken naar de optimale, gewenste situatie. Dit hebben we gedaan door doelgroepen vast te stellen, om zo de gevonden data op een overzichtelijke manier in te delen. Met deze data, plus de data van de Discover fase, gaan we op de volgende pagina verder met de Design fase, waar we de data van Discover en Dream fase vergelijken en een ontwerp maken voor de nieuwe situatie.

@@ -4,61 +4,61 @@
       <h4 class="vpc__h">
         Customer Jobs
       </h4>
-      <ul class="vpc__ul">
+      <ol class="vpc__ol">
         <li v-for="item in customerJobs" :key="item" class="vpc__li">
           {{ item }}
         </li>
-      </ul>
+      </ol>
     </div>
     <div class="vpc__field vpc__field--pains">
       <h4 class="vpc__h">
         Pains
       </h4>
-      <ul class="vpc__ul">
+      <ol class="vpc__ol">
         <li v-for="item in pains" :key="item" class="vpc__li">
           {{ item }}
         </li>
-      </ul>
+      </ol>
     </div>
     <div class="vpc__field vpc__field--gains">
       <h4 class="vpc__h">
         Gains
       </h4>
-      <ul class="vpc__ul">
+      <ol class="vpc__ol">
         <li v-for="item in gains" :key="item" class="vpc__li">
           {{ item }}
         </li>
-      </ul>
+      </ol>
     </div>
     <div class="vpc__field vpc__field--products-services">
       <h4 class="vpc__h">
         Products & Services
       </h4>
-      <ul class="vpc__ul">
+      <ol class="vpc__ol">
         <li v-for="item in productsServices" :key="item" class="vpc__li">
           {{ item }}
         </li>
-      </ul>
+      </ol>
     </div>
     <div class="vpc__field vpc__field--pain-relievers">
       <h4 class="vpc__h">
         Pain Relievers
       </h4>
-      <ul class="vpc__ul">
+      <ol class="vpc__ol">
         <li v-for="item in painRelievers" :key="item" class="vpc__li">
           {{ item }}
         </li>
-      </ul>
+      </ol>
     </div>
     <div class="vpc__field vpc__field--gain-creators">
       <h4 class="vpc__h">
         Gain Creators
       </h4>
-      <ul class="vpc__ul">
+      <ol class="vpc__ol">
         <li v-for="item in gainCreators" :key="item" class="vpc__li">
           {{ item }}
         </li>
-      </ul>
+      </ol>
     </div>
   </div>
 </template>
@@ -172,7 +172,7 @@ export default {
     margin: 0;
   }
 
-  &__ul {
+  &__ol {
     margin: 0;
   }
 

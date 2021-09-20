@@ -46,7 +46,7 @@ Ten tweede, de reden waarom klanten vaak een website laten maken, in plaats van 
 
 <Bijlage text="Waarom een roadmap?">
 
-Mijn stage was anders dan andere stages. Ik vind dat leuk, dingen op mijn eigen manier  doen. Dat is natuurlijk ondernemend gedrag en waarschijnlijk de hele reden dat ik met dit bedrijf bezig ben. Maargoed, niet alles mocht op mijn eigen manier. Hoe vind je je weg in wat school van je vraagt en wat je bedrijf van je vraagt?
+Mijn stage was anders dan andere stages. Ik vind dat leuk, dingen op mijn eigen manier  doen. Dat is natuurlijk ondernemend gedrag en waarschijnlijk de hele reden dat ik met dit bedrijf bezig ben. Maar goed, niet alles mocht op mijn eigen manier. Hoe vind je je weg in wat school van je vraagt en wat je bedrijf van je vraagt?
 
 Eén van de eisen vanuit school was het maken van een strokenplanning. Hier zag ik best wel tegenop. Ironisch genoeg is een belangrijk deel van de eindresultaten van mijn onderzoek een roadmap, wat een soort strokenplanning is. 
 
@@ -119,7 +119,7 @@ Door vaker korte updates te geven heb je meer contact met je klanten, wat dus pe
 - Kwalitatieve content die ook elders te gebruiken is
 - Overzichtelijke, professionele, maatwerk website
 
-Ook hier geldt dat dit uiteindelijk ingebouwd kan worden in het dashboard. Documentaties zijn eigenlijk gebruiksaanwijzigingen. Ik wil deze maken voor de systemen waarme ik werk. 
+Ook hier geldt dat dit uiteindelijk ingebouwd kan worden in het dashboard. Documentaties zijn eigenlijk gebruiksaanwijzingen. Ik wil deze maken voor de systemen waarmee ik werk. 
 
 Met kennis van de systemen maak ik het mijn klanten makkelijker en leuker om er mee te werken. Dit zorgt ervoor dat ze betere content op kunnen stellen en de website dus beter wordt. Ook zorgt het voor het waarborgen van de kwaliteit, omdat klanten weten hoe ze hun website up-to-date kunnen én moeten houden. 
 
@@ -135,6 +135,6 @@ Tot nu toe beschreef ik hoe ik doel 1 behaal: waarde creëren voor mijn (toekoms
 
 In het dashboard ga ik automatische incasso verwerken, zodat ik niet meer naar maandelijkse kosten om hoef te kijken. Hierdoor nemen de inkomsten niet toe, maar de kosten (tijd) die ik hierin moet steken wel af. Ik zal hierdoor dus een hogere winstmarge op de terugkerende inkomsten hebben. 
 
-De tekstenschrijver kan achteraf een extra service bieden, zoals content updaten of zelfs blogs schrijven. Omdat dit via mij gaat, vang ik hier een comissie op. 
+De tekstenschrijver kan achteraf een extra service bieden, zoals content updaten of zelfs blogs schrijven. Omdat dit via mij gaat, vang ik hier een commissie op. 
 
 De laatste is meer een nieuw verkregen inzicht dan een nieuwe dienst. Voorheen bepaalde ik de maandelijkse bedragen op basis van de kosten van website-builders. Zo verantwoorde ik het ook naar mijn klanten. Ik ben tot het inzicht gekomen dat dit niet de juiste aanpak is. In tegenstelling tot deze website-builders zorg ik er voor dat de kwaliteit gewaarborgd is. Dit is een extra service, waar ik dus ook extra kosten voor kan rekenen. Het is in dat geval belangrijk dat ik het goed onderbouw.  

@@ -162,3 +162,6 @@ Het simpel houden van de vragen doe ik om dezelfde reden als bij de interviews. 
 
 ### Data gebruiken
 Zoals gezegd beschrijft de data van klanten hun klanten alleen het eindproduct. Omdat deze data gelimiteerd is, is een eigen format overbodig. De data gebruik ik daarom als ondersteuning op de data van klanten. Het wordt dan ook in hetzelfde format ingevuld, onder ‘Eindproduct’. 
+
+## Tot slot
+We hebben gekeken naar de huidige situtatie. Dit hebben we gedaan door eerst een Lean Canvas versie 0 op te stellen, zodat later kan worden vergeleken met nieuwe canvassen. Hiernaast hebben we doelgroepen vastgesteld en voor ieder een manier van dataverwerking bepaald. Op de volgende pagina we een soortgelijk iets doen, maar dan voor de gewenste- in plaats van de huidige situatie.
