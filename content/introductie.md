@@ -3,7 +3,7 @@ title: Introductie
 order: 1
 ---
 
-Als bedrijf werk ik voor mijn klanten, dus is het belangrijk te weten wat mijn klanten willen.  Of om het nog een stapje verder te nemen, wat mijn klanten hun klanten willen. Om hier achter te komen heb ik hier 20 weken onderzoek naar gedaan. 
+Als bedrijf werk ik voor mijn klanten, dus is het belangrijk te weten wat mijn klanten willen.  Of om het nog een stapje verder te nemen, wat de klanten van mijn klanten willen. Om hierachter te komen heb ik hier 20 weken onderzoek naar gedaan. 
 
 Op deze website zie je wat ik gedurende deze tijd heb gedaan, hoe ik dat heb gedaan en waarom ik dat heb gedaan. Met de resultaten uit dit onderzoek verbeter ik mijn bedrijf, om zo mijn klanten nóg tevredener te maken!
 
@@ -16,8 +16,8 @@ Maar toch, aan werk en school heb ik de afgelopen jaren een groot deel van mijn 
 Ook al ziet mijn school de oplevering van een onderzoek niet vaak in een website, ik zie heel vaak websites met een soortgelijke functie. Een website heeft namelijk veel voordelen ten opzichte van een verslag in Word of PDF. Meer hierover lees je zo, maar eerst even een korte uitleg. Het is niet ingewikkeld, maar zo zorg ik ervoor dat iedereen de voordelen zo goed mogelijk kan benutten.
 
 ### Structuur
-Wat je te wachten staat kun je zien als een uitgebreide samenvatting van mijn onderzoek. Je loopt alles bij langs en hebt bij elk onderdeel de mogelijkheid dieper op de stof in te gaan. Dit doe je door op de knop aan de rechterkant de drukken. 
-Waar je in eerste instantie vooral het “wat?” en “hoe?” ziet, vind je achter de knop vaak meer over het “waarom?”. Heb je geen zin om dieper op de stof in te gaan? Prima. Vind je het wel interessant? Dan vind je deze stof op de plek waar het hoort.
+Wat je te wachten staat kun je zien als een uitgebreide samenvatting van mijn onderzoek. Je loopt alles bij langs en hebt bij elk onderdeel de mogelijkheid dieper op de stof in te gaan. Dit doe je door op de knop aan de rechterkant te drukken. 
+Waar je in eerste instantie vooral het “wat?” en “hoe?” ziet, vind je achter de knop vaak meer over het “waarom?”. Heb je geen zin om dieper op de stof in te gaan? Prima. Vind je het wel interessant? Dan vind je deze stof op de plek waar deze hoort.
 
 <Bijlage text="Zo ziet zo'n knop er uit!">
 
@@ -44,16 +44,16 @@ text="Hoe deze voordelen ontstaan?">
 Zoals ik al zei, de voordelen die ik noemde zijn feitelijk onderbouwd. Meer over deze onderbouwing lees je hieronder. 
 
 ### Interactieve functies
-Omdat ik in de gebruiksaanwijzing al een paar voorbeelden geef, ga ik hier niet te diep op in. Het komt er op neer: Met een website is alles mogelijk, met PDF niet. Websites bestaan uit codes, waarmee je alles kunt doen als je er verstand van hebt. En aangezien het maken van websites mijn werk is, heb ik het geluk er veel verstand van te hebben :)
+Omdat ik in de gebruiksaanwijzing al een paar voorbeelden geef, ga ik hier niet te diep op in. Het komt erop neer: Met een website is alles mogelijk, met PDF niet. Websites bestaan uit codes, waarmee je alles kunt doen als je er verstand van hebt. En aangezien het maken van websites mijn werk is, heb ik er gelukkig veel verstand van :)
 
 ### Gebruikservaring
 Soms ziet een PDF er heel goed uit, maar soms is het ook wazig of is het ineens een 
 gescande pagina van een boek. Kortom, een PDF kan van alles zijn. Dit is slecht voor de gebruikservaring en helpt mij daardoor niet met mijn doel: het overbrengen van informatie over mijn onderzoek. 
 
-Bovendien zorgt deze onzekerheid van PDF er voor dat mensen er bij voorbaat minder vertrouwen in hebben. De kans is immers groot dat ze er al eens een slechte ervaring mee hebben gehad. Als ik mezelf even als voorbeeld gebruik: in de Google zoekresultaten open ik nooit een PDF als deze voorbij komt. 
+Bovendien zorgt deze onzekerheid van PDF ervoor dat mensen er bij voorbaat minder vertrouwen in hebben. De kans is immers groot dat ze er al eens een slechte ervaring mee hebben gehad. Als ik mezelf even als voorbeeld gebruik: in de Google zoekresultaten open ik nooit een PDF als dit voorbij komt. 
 
 ### Informatie elders gebruiken
-Dit voorbeeld komt eigenlijk voort uit de kwaliteit, welke bij PDF niet altijd goed is. Hierdoor kun je soms geen teksten kopiëren of teksten zoeken via de zoekfunctie in de browser. 
+Dit voorbeeld komt eigenlijk voort uit de kwaliteit, die bij PDF niet altijd goed is. Hierdoor kun je soms geen teksten kopiëren of teksten zoeken via de zoekfunctie in de browser. 
 
 Als groot voorstander van open-sourcing wil ik mensen in staat stellen de informatie uit dit onderzoek zelf te gebruiken. Het aanbieden van deze informatie in de vorm van een website maakt dit voor iedereen net wat makkelijker. 
 
@@ -63,7 +63,7 @@ Ook al heeft dit nu geen prioriteit, het is altijd mooi meegenomen. Wanneer mens
 ### Up-to-date houden
 Een PDF bestand wordt meestal geëxporteerd vanuit een ander programma, bijvoorbeeld Word. Wanneer je hierin iets aanpast, moet het daardoor opnieuw worden geëxporteerd. Omdat ik dit onderzoek online deel, zou dat betekenen dat elke keer wanneer ik een aanpassing maak, ik het opnieuw moet delen. Iemand die bijvoorbeeld een oud bericht vindt met een PDF bestand als bijlage, krijgt nog steeds de oude versie te zien.
 
-Met een website is dat niet zo. Ik deel een link en deze blijft hetzelfde. Als ik aanpassingen maak, wordt dit live op de website toegepast. Dezelfde link blijft dus te gebruiken en toch krijgen mensen de nieuwe informatie te zien. Dit stimuleert mij en geeft mij de mogelijkheid om dit onderzoek up-to-date te houden.
+Met een website is dat niet zo. Ik deel een link en deze blijft hetzelfde. Als ik aanpassingen maak, worden deze live op de website toegepast. Dezelfde link blijft dus te gebruiken en toch krijgen mensen de nieuwe informatie te zien. Dit stimuleert mij en geeft mij de mogelijkheid om dit onderzoek up-to-date te houden.
 
 ### Bronnen
 -	https://gds.blog.gov.uk/2018/07/16/why-gov-uk-content-should-be-published-in-html-and-not-pdf/
@@ -78,17 +78,17 @@ Met een website is dat niet zo. Ik deel een link en deze blijft hetzelfde. Als i
 -	Ik kan de inhoud up-to-date houden
 
 ## De inhoud van de website
-Door de jaren heen en de opkomst van technologie is de concentratie van de mens heel erg gedaald. Alles gaat zo snel tegenwoordig. Je moet het lezen van een onderzoek als dit daarom vooral makkelijk en leuk maken. Hierboven toonde ik hoe een website je hierbij helpt, maar ook de inhoud op deze website is belangrijk. 
+In de loop der jaren is o.a. door de opkomst van technologie de concentratie van de mens heel erg gedaald. Alles gaat zo snel tegenwoordig. Je moet het lezen van een onderzoek als dit daarom vooral makkelijk en leuk maken. Hierboven toonde ik hoe een website je hierbij helpt, maar ook de inhoud op deze website is belangrijk. 
 
 > [Sinds het **internet** is concentratie verminderd van **12 naar 5** minuten](https://www.collegian.psu.edu/the_savvy_student/excessive-internet-usage-adversely-affects-concentration-in-students/article_3a2bdbae-b0a0-11ea-a9f5-e38a7c9b56f6.html#:~:text=Some%20studies%20have%20shown%20that,for%2010%20minutes%20and%20longer. "Bron: Collegian.psu.edu")
 
-Er zijn zo veel bedrijven in de website-wereld, dat resulteert in razend snelle innovatie. Het overbrengen van informatie is hier eentje van. Hoe vertel je mensen op een makkelijke en leuke manier wat je ze wilt vertellen? Met alle informatie die hierover beschikbaar is heb ik de volgende richtlijnen voor mezelf opgesteld:
+Er zijn zo veel bedrijven in de website-wereld. Dat resulteert in razend snelle innovatie. Het overbrengen van informatie is hier eentje van. Hoe vertel je mensen op een makkelijke en leuke manier wat je ze wilt vertellen? Met alle informatie die hierover beschikbaar is heb ik de volgende richtlijnen voor mezelf opgesteld:
 
 
 -	Korte, vlot leesbare zinnen
 -	Informeel taalgebruik, alsof je een gesprek voert
--	Duidelijke structuur, geef de lezer de mogelijkheid om het te scannen
+-	Duidelijke structuur, geef de lezer de mogelijkheid om de tekst te scannen
 -	Korte alinea’s
 - Afwisseling tussen teksten en beelden
 
-Deze dingen helpen al jaren om mensen op internet informatie over te brengen, en aangezien ook jij nu op het internet zit: voilà!
+Deze dingen helpen al jaren om op internet informatie over te brengen, en aangezien ook jij nu op het internet zit: voilà!

@@ -3,7 +3,7 @@ title: Destiny
 order: 7
 ---
 
-In Design zag je welke waardes ik als bedrijf moet behouden, verbeteren en creëren. Deze fase focust zich op hoe ik dit ga bereiken.
+In Design zag je welke waardes ik als bedrijf moet behouden, verbeteren en creëren. Deze fase focust op hoe ik dit ga bereiken.
 
 De resultaten van het onderzoek bestaan uit twee delen:
 
@@ -13,7 +13,7 @@ De resultaten van het onderzoek bestaan uit twee delen:
 De value propositions geven weer hoe ik waarde creëer voor mijn (toekomstige) klanten, oftewel doel 1 van het onderzoek. De roadmap maakt deze resultaten bruikbaar, met een plan om deze value propositions daadwerkelijk te bereiken, behouden of versterken. Sommige dingen in deze roadmap dragen bovendien bij aan doel 2: het creëren van terugkerende inkomsten. 
 
 ### Value propositions
-Ik heb er voor gekozen de value propositons wederom in te delen in periodes.
+Ik heb ervoor gekozen de value propositons wederom in te delen in periodes.
 
 -	**Pre-service:** Persoonlijk
 -	**Service > proces:** Kwalitatieve, effectieve content die ook elders te gebruiken is
@@ -31,14 +31,14 @@ Het proces leidt eigenlijk tot het eindproduct. We hebben de kwalitatieve, effec
 
 Mensen op het internet hebben zo weinig concentratie, dat ze grote stukken tekst niet gaan lezen. Daarom is het overzicht belangrijk. De website moet scanbaar zijn, zodat bezoekers meteen zien waar ze naar op zoek zijn en alleen dat hoeven te lezen. 
 
-Natuurlijk zijn er ook dingen waarvan jij wilt dat je bezoekers ze zien. Dit doe ik met het stukje maatwerk. Omdat mijn designs volledig op maat maak, is hierin alles mogelijk. Zo kan ik bepaalde dingen laten opvallen door bepaalde kleuren, vormen etc. te gebruiken. 
+Natuurlijk zijn er ook dingen waarvan jij wilt dat je bezoekers ze zien. Dit doe ik met het stukje maatwerk. Omdat ik mijn designs volledig op maat maak, is hierin alles mogelijk. Zo kan ik bepaalde dingen laten opvallen door bepaalde kleuren, vormen etc. te gebruiken. 
 
 Dit alles geef ik weer in de vorm van een mooie website die zorgt voor een professionele uitstraling. 
 
 #### Post-service
-Als deze kwalitatieve website online staat, is het nog niet klaar. De kwaliteit moet ook gewaarborgd worden. Dit doe ik met twee dingen: volledig aanpasbaar CMS en technische ondersteuning. 
+Als deze kwalitatieve website online staat, is het werk nog niet klaar. De kwaliteit moet ook gewaarborgd worden. Dit doe ik met twee dingen: volledig aanpasbaar CMS en technische ondersteuning. 
 
-Wat ik van vrijwel elke klant hoor is dat ze zelf dingen aan willen passen. Ze doen dat vervolgens niet allemaal, maar ze willen niet afhankelijk zijn. Zo kunnen ze dingen aanpassen wanneer er iets veranderd in bijvoorbeeld hun value propositions en zorgen we er zo voor dat de website zo goed mogelijk het bedrijf blijft weergeven.
+Wat ik van vrijwel elke klant hoor is dat ze zelf dingen willen aanpassen. Ze doen dat vervolgens niet allemaal, maar ze willen niet afhankelijk zijn. Zo kunnen ze dingen aanpassen wanneer er iets verandert in bijvoorbeeld hun value propositions en zorgen we er zo voor dat de website een zo goed mogelijke weergave het bedrijf blijft.
 
 Ten tweede, de reden waarom klanten vaak een website laten maken, in plaats van dat ze er zelf mee aan de slag gaan. Stel er gaat wat mis, dan kunnen ze naar iemand toe stappen. Dus geen stress. Ik zorg er met de technische ondersteuning voor dat de website altijd werkend online staat. 
 
@@ -52,13 +52,13 @@ Eén van de eisen vanuit school was het maken van een strokenplanning. Hier zag 
 
 Ik heb tijdens het gebruik van een strokenplanning geleerd dat een te strakke planning voor mij niet werkt. Dit wist ik eigenlijk al, maar dat is nu bevestigd. Om die reden spelen de datums en tijden hierin geen rol. 
 
-Wat mij wel helpt is het overzicht. Ik zie wat ik al heb gedaan, wat ik nog moet doen, hoe lang deze dingen duurden of gaan duren en hoe het op elkaar aansluit.
+Wat mij wel helpt is het overzicht. Ik zie wat ik al heb gedaan, wat ik nog moet doen, hoe lang deze dingen duurden of gaan duren en hoe ze op elkaar aansluiten.
 
 ### Tools
-Omdat een roadmap een veelgebruikt ding is in de webwereld, zijn hier handige tools voor. Eén van die tools is TeamGantt. Zoals de naam al een beetje weggeeft kun je hiermee gantt-charts maken. Een gantt-chart is strokenplanning / roadmap. Een hoop verschillende namen voor hetzelfde concept. Het bestaat uit verschillende taken welke onderverdeeld zijn in sub-taken. Deze zijn vervolgens ingedeeld per dag in de vorm van stroken. Verder zijn er binnen de tool nog heel veel andere dingen mogelijk, maar daar ga ik nu niet verder over in. 
+Omdat een roadmap een veelgebruikt ding is in de webwereld, zijn hier handige tools voor. Eén van die tools is TeamGantt. Zoals de naam al een beetje weggeeft kun je hiermee gantt-charts maken. Een gantt-chart is een strokenplanning / roadmap. Een hoop verschillende namen voor hetzelfde concept. Het bestaat uit verschillende taken die onderverdeeld zijn in sub-taken. Deze zijn vervolgens ingedeeld per dag in de vorm van stroken. Verder zijn er binnen de tool nog heel veel andere dingen mogelijk, maar daar ga ik nu niet verder op in. 
 
 ### Hoe het helpt
-Een roadmap helpt mij bij het bereiken van mijn doelen. Het geeft overzicht en informatie over wat ik heb gedaan en nog ga doen. Zo zorg ik er voor dat ik mijn klanten in de toekomst nog tevredener maak. 
+Een roadmap helpt mij bij het bereiken van mijn doelen. Het geeft overzicht en informatie over wat ik heb gedaan en nog ga doen. Zo zorg ik ervoor dat ik mijn klanten in de toekomst nog tevredener maak. 
 
 </Bijlage>
 
@@ -67,13 +67,13 @@ Het creëren, versterken of behouden van deze value propositions is niet zomaar 
 [Klik hier om de roadmap te bekijken](https://silintweb-onderzoek.vercel.app/roadmap.pdf)
 
 ### Roadmap X value propositions
-Hieronder staan alle onderdelen van de roadmap. Per onderdeel staan de value propositions waar het aan bijdraagt met een uitleg hoe ze dat doen.
+Hieronder staan alle onderdelen van de roadmap. Per onderdeel staan de value propositions met een uitleg hoe ze bijdragen aan de roadmap.
 
 #### Vragenlijsten aanpassen
 - Kwalitatieve content die ook elders te gebruiken is
 - Overzichtelijke, professionele, maatwerk website
 
-Ik werk met een systeem waarin ik online vragenlijsten kan maken. Hierin maak ik twee lijsten. Eentje om mijn klanten en hun bedrijf te leren kennen en eentje voor de daadewerlijke inhoud voor op de website. 
+Ik werk met een systeem waarin ik online vragenlijsten kan maken. Hierin maak ik twee lijsten. Eentje om mijn klanten en hun bedrijf te leren kennen en eentje voor de daadwerkelijke inhoud voor op de website. 
 
 Omdat ik deze lijsten al een tijdje gebruik, heb ik meerdere ingevuld teruggekregen. Op basis hiervan ga ik de lijsten nu aanpassen. Dit is een continu proces, maar ik ga nu alles met aandacht bij langs om ze een volledige opfrisbeurt te geven. 
 
@@ -84,57 +84,57 @@ Met betere vragenlijsten verzamel ik betere content. Betere content leidt uitein
 - Kwalitatieve content die ook elders te gebruiken is
 - Overzichtelijke, professionele, maatwerk website
 
-Ik werk met verschillende systemen en communicatiekanalen. Klanten verliezen hierdoor soms het overzicht. Ik wil hiervoor één centraal dashboard maken, vanuit waar mijn klanten naar alle systemen kunnen gaan. Ook kunnen ze hier live de voortgang van het project zien. 
+Ik werk met verschillende systemen en communicatiekanalen. Klanten verliezen hierdoor soms het overzicht. Ik wil hiervoor één centraal dashboard maken, waarvanuit mijn klanten naar alle systemen kunnen gaan. Ook kunnen ze hier live de voortgang van het project zien. 
 
-Dit dashboard leidt tot meer duidelijkheid en kennis. Vooral leidt het tot een beter eindproduct, omdat klanten meer betrokken worden. Zo zijn ze op de hoogte van wat ik doe en waarom. Daardoor zullen ze meer begrip hebben voor mijn keuzes ze zullen optijd feedback kunnen geven wanneer ik iets doe wat ze niet bevalt. 
+Dit dashboard leidt tot meer duidelijkheid en kennis. Vooral leidt het tot een beter eindproduct, omdat klanten meer betrokken worden. Zo zijn ze op de hoogte van wat ik doe en waarom. Daardoor zullen ze meer begrip hebben voor mijn keuzes ze zullen op tijd feedback kunnen geven wanneer ik iets doe wat ze niet bevalt. 
 
 #### Eigen website updaten
 - Persoonlijk
 
 Een tijdje geleden heb ik mijn hele website opnieuw gebouwd. Ik kreeg veel positieve feedback terug. Mensen vinden de website duidelijk, ze weten wat ik doe en waarom ik dat doe.
 
-Echter, wat nog mist is het persoonlijke stukje. Mensen zien nog niet wie ik ben. Dit ga ik creëren door over de gehele website meer persoonlijke dingen toe te voegen.
+Echter, wat nog mist is het persoonlijke stukje. Mensen zien nog niet wie ik ben. Dit ga ik creëren door aan de gehele website meer persoonlijke dingen toe te voegen.
 
-#### Samenwerking met tekstenschrijver
+#### Samenwerking met tekstschrijver
 - Kwalitatieve content die ook elders te gebruiken is
 - Overzichtelijke, professionele, maatwerk website
 - Kwaliteit waarborgen
 
 De inhoud van website is heel belangrijk. Tot nu toe probeer ik het mijn klanten zo leuk en makkelijk mogelijk te maken om dit zelf te kunnen doen, maar dit kan nog een stapje verder.
 
-Een tekstenschrijver kan deze taak (deels) van mijn klanten overnemen. Wel blijft de klant hierin een belangrijke rol spelen. Hij/zij heeft immers de meeste kennis van het bedrijf. Op deze manier kan een tekstenschrijver zorgen voor betere content en dus een betere website.
+Een tekstschrijver kan deze taak (deels) van mijn klanten overnemen. Wel blijft de klant hierin een belangrijke rol spelen. Hij/zij heeft immers de meeste kennis van het bedrijf. Op deze manier kan een tekstschrijver zorgen voor betere content en dus een betere website.
 
-Deze dienst komt niet alleen tijdens het maken van de website van pas, maar ook daarna. Wanneer er aanpassingen gedaan moeten worden kan de tekstenschrijver hierbij van dienst zijn. Dit helpt dus om de kwaliteit van de website te waarborgen.
+Deze dienst komt niet alleen tijdens het maken van de website van pas, maar ook daarna. Wanneer er aanpassingen gedaan moeten worden kan de tekstschrijver hierbij van dienst zijn. Dit helpt dus om de kwaliteit van de website te waarborgen.
 
 #### Klanten regelmatig updates geven
-- Persoonlijk.
+- Persoonlijk
 - Kwalitatieve content die ook elders te gebruiken is
 - Overzichtelijke, professionele, maatwerk website
 
 Dit is iets wat op de lange termijn ingebouwd moet worden in het dashboard. De bouw hiervan kan echter vrij lang duren, dus wil ik deze updates in eerste instantie doen via mail of een ander platform. 
 
-Door vaker korte updates te geven heb je meer contact met je klanten, wat dus persoonlijker is. Zoals ik eerder noemde geeft het je klanten meer inzicht in je keuzes en mogelijkheid om optijd feedback te geven. Deze laatste twee zorgen voor betere content en dus een betere website. 
+Door vaker korte updates te geven heb je meer contact met je klanten, wat dus persoonlijker is. Zoals ik eerder noemde geeft het je klanten meer inzicht in je keuzes en mogelijkheid om op tijd feedback te geven. Dit zorgt voor betere content en dus een betere website. 
 
 #### Documentatie opstellen
 - Kwalitatieve content die ook elders te gebruiken is
 - Overzichtelijke, professionele, maatwerk website
 
-Ook hier geldt dat dit uiteindelijk ingebouwd kan worden in het dashboard. Documentaties zijn eigenlijk gebruiksaanwijzingen. Ik wil deze maken voor de systemen waarmee ik werk. 
+Ook voor de documentate geldt dat het uiteindelijk ingebouwd kan worden in het dashboard. Documentaties zijn eigenlijk gebruiksaanwijzingen. Ik wil deze maken voor de systemen waarmee ik werk. 
 
-Met kennis van de systemen maak ik het mijn klanten makkelijker en leuker om er mee te werken. Dit zorgt ervoor dat ze betere content op kunnen stellen en de website dus beter wordt. Ook zorgt het voor het waarborgen van de kwaliteit, omdat klanten weten hoe ze hun website up-to-date kunnen én moeten houden. 
+Met kennis van de systemen maak ik het mijn klanten makkelijker en leuker om ermee te werken. Dit zorgt ervoor dat ze betere content op kunnen stellen en de website dus beter wordt. Ook zorgt het voor het waarborgen van de kwaliteit, omdat klanten weten hoe ze hun website up-to-date kunnen én moeten houden. 
 
 ### De kern
 Je ziet dat de content en website het meeste terugkomen. Ik ben dus ook tot de conclusie gekomen dat dit de kern is van hoe ik waarde bied. Laten zien waarin de klant het beste is, met behulp van kwalitatieve, effectieve content in combinatie met een overzichtelijke, professionele, maatwerk website. 
 
 ### Doel 2
-Tot nu toe beschreef ik hoe ik doel 1 behaal: waarde creëren voor mijn (toekomstige) klanten. Nu nog even kort over doel 2. Ik ben naar de value propositions gaan kijken om er achter te komen welke hiervan waarde én mogelijkheid tot terugkerende inkomsten bieden. Dit is van toepassing op volgenden:
+Tot nu toe beschreef ik hoe ik doel 1 behaal: waarde creëren voor mijn (toekomstige) klanten. Nu nog even kort over doel 2. Ik ben naar de value propositions gaan kijken om erachter te komen welke hiervan waarde én mogelijkheid tot terugkerende inkomsten bieden. Dit is van toepassing op:
 
 -	Dashboard
--	Tekstenschrijver
+-	tekstschrijver
 -	Kwaliteit waarborgen
 
-In het dashboard ga ik automatische incasso verwerken, zodat ik niet meer naar maandelijkse kosten om hoef te kijken. Hierdoor nemen de inkomsten niet toe, maar de kosten (tijd) die ik hierin moet steken wel af. Ik zal hierdoor dus een hogere winstmarge op de terugkerende inkomsten hebben. 
+In het dashboard ga ik automatische incasso verwerken, zodat ik niet meer naar maandelijkse kosten om hoef te kijken. Hierdoor nemen de inkomsten niet toe, maar de kosten (tijd) die ik hierin moet steken neemt wel af. Ik zal hierdoor dus een hogere winstmarge op de terugkerende inkomsten hebben. 
 
-De tekstenschrijver kan achteraf een extra service bieden, zoals content updaten of zelfs blogs schrijven. Omdat dit via mij gaat, vang ik hier een commissie op. 
+De tekstschrijver kan achteraf een extra service bieden, zoals content updaten of zelfs blogs schrijven. Omdat dit via mij gaat, vang ik hier een commissie op. 
 
-De laatste is meer een nieuw verkregen inzicht dan een nieuwe dienst. Voorheen bepaalde ik de maandelijkse bedragen op basis van de kosten van website-builders. Zo verantwoorde ik het ook naar mijn klanten. Ik ben tot het inzicht gekomen dat dit niet de juiste aanpak is. In tegenstelling tot deze website-builders zorg ik er voor dat de kwaliteit gewaarborgd is. Dit is een extra service, waar ik dus ook extra kosten voor kan rekenen. Het is in dat geval belangrijk dat ik het goed onderbouw.  
+De laatste is meer een nieuw verkregen inzicht dan een nieuwe dienst. Voorheen bepaalde ik de maandelijkse bedragen op basis van de kosten van website-builders. Zo verantwoorde ik de maandelijkse kosten ook naar mijn klanten. Ik ben tot het inzicht gekomen dat dit niet de juiste aanpak is. In tegenstelling tot deze website-builders zorg ik ervoor dat de kwaliteit gewaarborgd is. Dit is een extra service, waar ik dus ook extra kosten voor kan rekenen. Het is in dat geval belangrijk dat ik de kosten die mijn klanten dienen te betalen goed onderbouw.  
